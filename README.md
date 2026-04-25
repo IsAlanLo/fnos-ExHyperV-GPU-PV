@@ -31,7 +31,7 @@
 - Hyper-V 版本：10.0.19041.1
 - ExHyperV版本：V1.4.2
 - Host GPU：RTX 3060Ti
-- FNOS 版本：1.1.23
+- fnOS 版本：1.1.23
 
 ### 測試結果
 
