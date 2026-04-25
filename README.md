@@ -41,7 +41,7 @@
 - ✅ Codec	
 - ✅ CUDA/OpenCL
 
-### 參考資料
+### 參考資料&鳴謝
 
 - [ExHyperV Ubuntu-22.04-Official.sh](https://github.com/Justsenger/ExHyperV/blob/main/src/Linux/script/Ubuntu-22.04-Official.sh)
 - [staralt/dxgkrnl-dkms](https://github.com/staralt/dxgkrnl-dkms)
