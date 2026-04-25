@@ -1,4 +1,4 @@
-## FNOS 1.1.23 ExHyper-V GPU-PV腳本
+## FNOS 1.1.23 ExHyper-V GPU-PV部署腳本
 
 ### 說明
 
