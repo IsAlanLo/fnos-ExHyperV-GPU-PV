@@ -40,6 +40,7 @@
 - ✅ Vulkan	
 - ✅ Codec	
 - ✅ CUDA/OpenCL
+- ❌ fnOS相冊/影視gpu識別，建議使用第三方app e.g.Jellyfin
 
 ### 參考資料&鳴謝
 
