@@ -1,5 +1,5 @@
 #!/bin/bash
-# @Name: fnOS-1.1.23(6.12.18-trim)-HyperV-GPU-PV
+# @Name: fnOS-1.1.23-6.12.18-trim-HyperV-GPU-PV
 # @Description: FNOS dxgkrnl + WSL libs + reboot auto-load via root crontab
 # @Version: 3.7.0
 
