@@ -27,11 +27,12 @@
 
 ### 測試環境
 
-- Windows版本：Windows 10 工作站專業版 Build.19045 + Windows 11 專業工作站版 Build.26100
-- Hyper-V 版本：10.0.19041.1 + 10.0.26100.1
+- Windows版本：Windows 10 工作站專業版 Build.19045
+- Hyper-V 版本：10.0.19041.1
 - ExHyperV版本：V1.4.2
 - Host GPU：RTX 3060Ti
 - fnOS 版本：1.1.23
+- Nvidia 驅動版本:591.86
 
 ### 測試結果
 
