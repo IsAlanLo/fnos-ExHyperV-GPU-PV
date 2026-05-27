@@ -43,6 +43,10 @@
 - ✅ CUDA/OpenCL
 - ❌ fnOS相冊/影視gpu識別，建議使用第三方app e.g.Jellyfin
 
+### 不兼容/未支持環境
+
+- Windows 11 24H2 Build.26100 已確定不兼容
+
 ### 參考資料&鳴謝
 
 - [ExHyperV Ubuntu-22.04-Official.sh](https://github.com/Justsenger/ExHyperV/blob/main/src/Linux/script/Ubuntu-22.04-Official.sh)
